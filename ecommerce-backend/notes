@@ -1,0 +1,21 @@
+using multer for cloud services. 
+
+
+# Creating Product APIS.
+
+We user multer to pass multi part data.
+
+now to upload image we have passed use postman body format to upload data.
+
+used express static to access folders inside our directory.
+
+install uuid famous package.
+
+faker has been installed to generate fake data.
+
+what is difference between interface and type in ts.
+Difference between async and await.
+
+To optimize the program use node cache or radish.
+
+started cache, take cache and set.
